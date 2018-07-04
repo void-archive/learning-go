@@ -2,8 +2,14 @@ package main
 
 import (
   "fmt"
+  
 )
 
 func main() {
-  fmt.Println('Hello, World!')
+  x := 5
+  y := 10
+  sum := x + y
+  
+  fmt.Println('Sum of x plus y:')
+  fmt.Println(sum)
 }
