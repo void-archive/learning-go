@@ -1,9 +1,6 @@
 package main
 
-import (
-  "fmt"
-  
-)
+import "fmt"
 
 func main() {
   x := 5
